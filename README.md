@@ -194,8 +194,3 @@ For a stronger QA portfolio, consider adding a defect log with severity/priority
 ## 🎯 What this project demonstrates for a QA role
 
 This project demonstrates a structured approach to testing an AI-enabled application: designing test scenarios, comparing expected and actual behavior, identifying defects, validating sources, checking negative and security cases, and documenting regression risks. It also highlights an important AI QA distinction: **a fluent answer is not necessarily a correct answer, and a correct answer is not fully trustworthy when its citation does not support it.**
-
----
-
-*Testing status reflects observations recorded in the supplied workbook. Results have not been independently re-executed as part of this README update. Regulatory interpretations should be verified against the authoritative Rules document before being relied upon.*
-
